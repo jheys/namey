@@ -1,0 +1,15 @@
+{
+  "name": "namey",
+  "version": "1.0.0",
+  "description": "A utility for naming things that need names",
+  "main": "index.js",
+  "repository": "https://github.com/jheys/namey",
+  "scripts": {},
+  "keywords": [
+    "name",
+    "namey",
+    "namer"
+  ],
+  "author": "Jim Heys <jheys@swerv.com>",
+  "license": "MIT"
+}

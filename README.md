@@ -1,2 +1,2 @@
 # namey
-A utility to name things that need names
+A utility for naming things that need names
